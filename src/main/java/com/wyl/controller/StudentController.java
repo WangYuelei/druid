@@ -8,7 +8,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
-
+/**
+ * @description: StudentController
+ * @author: wyl
+ * @date: 2022-04-22 09:55:06
+ */
 @RestController
 @RequestMapping("student")
 public class StudentController {
